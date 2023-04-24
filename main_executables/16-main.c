@@ -32,4 +32,5 @@ int main(void)
 	perfect = binary_tree_is_perfect(root);
 	printf("Perfect: %d\n", perfect);
 	return (0);
+
 }
